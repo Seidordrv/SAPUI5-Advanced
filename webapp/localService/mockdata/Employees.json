@@ -1,0 +1,94 @@
+{
+    "Employees": [
+        {
+            "EmployeeID": "1",
+            "LastName": "Garcia Lopez",
+            "FirstName": "Maria",
+            "Title":"Sales Representative",
+            "Country": "ES",
+            "City": "Madrid",
+            "PostalCode": "28021",
+            "Orders": [
+                {
+                    "OrderID": "208",
+                    "Freight": "65",
+                    "ShipAddress": "Calle Alcala"
+                }
+            ]
+        },
+        {
+            "EmployeeID": "2",
+            "LastName": "Cuartas Jimenez",
+            "FirstName": "Jose Rodrigo",
+            "Title":"Vice President, Sales",
+            "Country": "CO",
+            "City": "Bogota",
+            "PostalCode": "28022",
+            "Orders": [
+                {
+                    "OrderID": "209",
+                    "Freight": "66",
+                    "ShipAddress": "Calle 155# 9 117"
+                }
+            ]
+        },
+        {
+            "EmployeeID": "3",
+            "LastName": "Cuartas Jimenez",
+            "FirstName": "Jose Rodrigo2",
+            "Title":"Sales Manager",
+            "Country": "PR",
+            "City": "Peru",
+            "PostalCode": "28023",
+            "Orders": [
+                {
+                    "OrderID": "209",
+                    "Freight": "6676",
+                    "ShipAddress": "Calle 155# 9 - 50 Casa 117"
+                }
+            ]
+        },
+        {
+            "EmployeeID": "4",
+            "LastName": "Davolio",
+            "FirstName": "Nancy",
+            "Title":"Sales Representative",
+            "Country": "US",
+            "City": "Seattle",
+            "PostalCode": "98052",
+            "Orders": [
+                {
+                    "OrderID": "789",
+                    "Freight": "34",
+                    "ShipAddress": "1029 - 12th Ave. S."
+                },
+                {
+                    "OrderID": "3057",
+                    "Freight": "12",
+                    "ShipAddress": "2732 Baker Blvd."
+                }
+            ]
+        },
+        {
+            "EmployeeID": "5",
+            "LastName": "Peacock",
+            "FirstName": "Margaret",
+            "Title":"Inside Sales Coordinator",
+            "Country": "US",
+            "City": "Redmond",
+            "PostalCode": "08025",
+            "Orders": [
+                {
+                    "OrderID": "100",
+                    "Freight": "83",
+                    "ShipAddress": "187 Suffolk Ln."
+                },
+                {
+                    "OrderID": "209",
+                    "Freight": "52",
+                    "ShipAddress": "87 Polk St. Suite 5"
+                }
+            ]
+        }
+    ]
+}
